@@ -8,4 +8,4 @@ To try the starter, open starter/, run npm install, then npm run package. Import
 
 Official developer documentation: https://doc.partylink.cc
 
-Download **partylink-developer-kit.zip** from this repository, unzip it, then give the English prompt and the starter folder to your AI coding tool.
+Download [partylink-developer-kit.zip](https://github.com/PartyLinkGame/partylink-game-starter/raw/refs/heads/main/partylink-developer-kit.zip) from this repository, unzip it, then give the English prompt and the starter folder to your AI coding tool.
